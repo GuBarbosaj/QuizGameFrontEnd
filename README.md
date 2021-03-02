@@ -35,4 +35,4 @@ https://www.apachefriends.org/pt_br/index.html
 
 ##Capturas de Tela do Quiz Game
 
-
+![alt text] https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/vitoria.png
