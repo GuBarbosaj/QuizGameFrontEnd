@@ -13,7 +13,7 @@ https://github.com/GuBarbosaj/QuizGameAPI
 * 2 - Descompacte a pasta do projeto.
 * 3 - Copie a pasta descompactada e cole no diretório publico do *XAMPP*. Por padrão "C:\xampp\htdocs".
 * 4 - Inicie o servidor Apache pelo *XAMPP.
-* 5 - Para testar basta abrir o link "http://localhost/NOMEDAPASTADOPROJETO" no navegador.
+* 5 - Para testar basta abrir o link "*http://localhost/NOMEDAPASTADOPROJETO*" no navegador.
 
 
 ## Pré requisitos
@@ -47,5 +47,5 @@ https://www.apachefriends.org/pt_br/index.html
 ## TELA DE DERROTA
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/derrota.png)
 
-## TELA DE AVISO QUANDO NÂO TEM UMA ALTERNATIVA SELECIONADA
+## TELA DE AVISO QUANDO CONFIRMA A QUESTÃO SEM TER SELECIONADO UMA ALTERNATIVA
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/nSelecionado.png)
