@@ -33,15 +33,19 @@ https://www.apachefriends.org/pt_br/index.html
 
 **Gustavo Jesus Barbosa** - [Linkedin](https://www.linkedin.com/in/gustavo-barbosa-92257a187/)
 
-##Capturas de Tela do Quiz Game
+#Capturas de Tela do Quiz Game
 
-**TELA INICIAL DO QUIZ GAME**
+##TELA INICIAL DO QUIZ GAME
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/telaInicial.png)
-**EXEMPLO DE UMA QUESTÃO DO QUIZ GAME**
+
+##EXEMPLO DE UMA QUESTÃO DO QUIZ GAME
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/questao1.png)
-**TELA DE VITORIA**
+
+##TELA DE VITORIA
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/vitoria.png)
-**TELA DE DERROTA**
+
+##TELA DE DERROTA
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/derrota.png)
-**TELA DE AVISO QUANDO NÂO TEM UMA ALTERNATIVA SELECIONADA**
+
+##TELA DE AVISO QUANDO NÂO TEM UMA ALTERNATIVA SELECIONADA
 ![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/nSelecionado.png)
