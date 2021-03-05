@@ -12,7 +12,7 @@ https://github.com/GuBarbosaj/QuizGameAPI
 * 1 - Clone ou faça o download do repositorio **QuizGameFrontend** para sua maquína.
 * 2 - Descompacte a pasta do projeto.
 * 3 - Copie a pasta descompactada e cole no diretório publico do *XAMPP*. Por padrão "C:\xampp\htdocs".
-* 4 - Inicie o servidor Apache pelo *XAMPP.
+* 4 - Inicie o servidor Apache pelo *XAMPP*.
 * 5 - Para testar basta abrir o link "*http://localhost/NOMEDAPASTADOPROJETO*" no navegador.
 
 
